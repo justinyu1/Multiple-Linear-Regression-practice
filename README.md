@@ -1,2 +1,2 @@
 # Multiple-Linear-Regression-practice
-Practicing making a multiple linear regression model with venture capital investment dataset
+Made a multiple linear regression model with potential list of venture capital investments using backward elimination Ordinary least squares approach. There are 3 numerical features (R&D cost, Administration cost, Marketing cost) and one categorical feature (city). Just practicing using statsmodels package and the OLS class to visualize backward elimination process to claim features with highest influence. 
